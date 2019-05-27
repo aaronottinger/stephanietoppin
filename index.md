@@ -2,7 +2,16 @@
 # This lines is just a test of this page in order to commit changes. 
 ## This lines is just a test of this page in order to commit changes. 
 ### This lines is just a test of this page in order to commit changes. 
+
+
 This lines is just a test of this page in order to commit changes. 
+
+## New Branch
+
+Hi X, I'm adding this just so you can see what it's like to have someone work on your site, write it on a new branch in their fork, and ultimately, so you can receive a pull request, which you can then accept or reject. Pretty cool, huh?
+
+Don't worry, I won't be offended when you reject my pull request. ;)
+
 
 You can use the [editor on GitHub](https://github.com/Stoppin/stephanietoppin/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
